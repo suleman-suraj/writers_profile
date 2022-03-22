@@ -1,45 +1,54 @@
 [
     {
         "id": 1,
-        "name":"Audre  Lorde",
+        "name":"Donnish",
         "avatar":"audre_lorde",
-        "email":"audrelorde5@gmail.com",
+        "email":"Donnish@gmail.com",
         "phone":"0247992364",
         "bio":"jhhhgsdfu"
 
     },
     {
         "id": 1,
-        "name":"Audre  Lorde",
-        "avatar":"audre_lorde",
-        "email":"audrelorde5@gmail.com",
+        "name":"Hardy",
+        "avatar":"belle_hooks",
+        "email":"Hardy@gmail.com",
         "phone":"0247992364",
         "bio":"jhhhgsdfu"
 
     },
     {
         "id": 1,
-        "name":"Audre  Lorde",
-        "avatar":"audre_lorde",
-        "email":"audrelorde5@gmail.com",
+        "name":"Suraj",
+        "avatar":"du_bois",
+        "email":"Suraj@gmail.com",
         "phone":"0247992364",
         "bio":"jhhhgsdfu"
 
     },
     {
         "id": 1,
-        "name":"Audre  Lorde",
-        "avatar":"audre_lorde",
-        "email":"audrelorde5@gmail.com",
+        "name":"Wayen",
+        "avatar":"james_baldwin",
+        "email":"Wayen@gmail.com",
         "phone":"0247992364",
         "bio":"jhhhgsdfu"
 
     },
     {
         "id": 1,
-        "name":"Audre  Lorde",
-        "avatar":"audre_lorde",
-        "email":"audrelorde5@gmail.com",
+        "name":"Wayena",
+        "avatar":"lanston_hughes",
+        "email":"Wayena@gmail.com",
+        "phone":"0247992364",
+        "bio":"jhhhgsdfu"
+
+    },
+    {
+        "id": 1,
+        "name":"Dan",
+        "avatar":"maya_angelou",
+        "email":"Dan@gmail.com",
         "phone":"0247992364",
         "bio":"jhhhgsdfu"
 
